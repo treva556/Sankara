@@ -4,8 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-Sankara hotels
-    </div>
+  <h1 className="text-3xl font-bold underline">
+      Sankara Hotels!
+    </h1>
+      </div>
   );
 }
 
