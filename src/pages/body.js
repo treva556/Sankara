@@ -1,10 +1,11 @@
 
 
-// header
+
+// body 
 import React from 'react';
 import './App.css';
 
-function Header() {
+function Body() {
   return (
     <div className="App">
   <h1 className="text-3xl font-bold underline">
@@ -14,5 +15,5 @@ function Header() {
   );
 }
 
-export default Header;
+export default Body;
 
