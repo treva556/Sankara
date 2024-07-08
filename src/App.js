@@ -1,3 +1,5 @@
+
+//body
 import React from 'react';
 import './App.css';
 import Header from './pages/header';
@@ -13,3 +15,4 @@ function App() {
 }
 
 export default App;
+
